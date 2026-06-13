@@ -1,0 +1,6 @@
+{
+  "name": "Fitness Tracker",
+  "description": "A comprehensive fitness tracking app to record daily cardiovascular and strength workouts, and view detailed monthly or yearly statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
